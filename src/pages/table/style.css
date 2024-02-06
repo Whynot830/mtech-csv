@@ -1,0 +1,11 @@
+.table th, td {
+    font-size: 14px;
+    font-weight: 400;
+    padding-block: 1rem;
+    padding-inline: 2rem;
+    text-align: left;
+    border-color: #C0C0C0;
+}
+.table th {
+    font-size: 14px;
+}
